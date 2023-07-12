@@ -8,3 +8,4 @@
 |  1 | JeecgBoot    | title:"JeecgBoot 企业级低代码平台"                     | 2023-07-12  |
 |  2 | 金山终端安全系统     | title:"云堤防病毒"                                  | 2023-07-12  |
 |  3 | NginxWebUI   | html:"登陆NginxWebUI"                            | 2023-07-12  |
+|  4 | Kibana       | headers:"Kbn-License-Sig"                      | 2023-07-12  |
